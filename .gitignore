@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.prerender/
+.validation/
+*.tsbuildinfo
+.env.local
+work/
+
+.env
+.env.*
+!.env.example
+*.log
